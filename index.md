@@ -2,122 +2,42 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+## Introduction
 
 
-### Definition lists can be used with HTML syntax.
+## Bio
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+Geophysicist with a Master’s degree in Geophysics and Geodynamics, specializing in seismology and seismic data analysis. Strong research foundation in the application of joint inversion techniques for receiver functions and dispersion curves, particularly in studying sedimentary basins. My technical expertise includes seismological data processing, analysis, and interpretation, along with proficiency in Shell scripting, Unix-based operating systems and command-line tools. I’m also skilled in Python programming, with a focus on solving inverse geophysical problems. Passionate about bridging research and practical applications, I am proficient in tackling complex challenges and contributing to meaningful projects in geophysics.
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+### Core Skills
 
-```
-The final element.
-```
+- Programming
+- Geophysics
+- Data Science
+
+### Hobbies and Interests
+
+
+
+## Resume
+
+You can also find my resume [here](./resume.html).
+
+## Projects
+[Here](./projects.html) is a list of the projects I have worked on
+
+
+## Research & Publications
+
++ [Bachelor Thesis](https://repositorio.ufrn.br/bitstream/123456789/34358/1/AvaliacaoInversaoHerglotz_Barbosa_2018.pdf)
++ [Master Thesis](https://repositorio.ufrn.br/bitstream/123456789/49492/1/EstruturalitosfericaBacia_Barbosa_2022.pdf)
++ [Published Article](https://www.sciencedirect.com/science/article/abs/pii/S0264370722000564): Lithospheric S-velocity structure of the on-shore Potiguar Basin, NE Brazil: High heat-flow in an aborted rift
+
+
+## Contact information
+
+* [Email me](mailto:thabita.sofiagomes@gmail.com)
+* [Linkedin](https://www.linkedin.com/in/thabita-barbosa/)
+
+
+
