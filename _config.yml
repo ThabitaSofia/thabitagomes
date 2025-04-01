@@ -3,4 +3,6 @@ logo: /assets/img/profile.jpeg
 description: Geophysicist & Master of Science in Seismology
 show_downloads: false
 google_analytics:
+github:
+  is_project_page: false
 theme: jekyll-theme-minimal
