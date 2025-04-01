@@ -4,8 +4,12 @@ layout: default
 
 ## Projects
 
-Here will be listed all projects
+### Development of the Herglotz-Wiechert algorithm in Python
 
-[back](./)
-~                                                                               
-~                              
+### Geophysical surveys
+
+### Development of the Samba
+
+
+
+[Return to Homepage](./)

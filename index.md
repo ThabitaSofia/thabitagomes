@@ -17,14 +17,27 @@ Geophysicist with a Master’s degree in Geophysics and Geodynamics, specializin
 
 ### Hobbies and Interests
 
-
+- Outdoor activities
+- Coding and scripting
+- Teaching and Mentoring
 
 ## Resume
 
-You can also find my resume [here](./resume.html).
+Please read my resume [here](./resume.html).
+Or you can [📄 download My resume](assets/resume.pdf){: .btn .btn-primary }
+
 
 ## Projects
-[Here](./projects.html) is a list of the projects I have worked on
+
+### Development of the Herglotz-Wiechert algorithm in Python
+
+I developed, in Python, a computational code to implement an inversion methodology based on the solution of the Herglotch-Wiechert algorithm and teste the performance of the method thorugh the measurement and inversion of P-wave travel times for a set of earthquakes recorded at the Brazilian Seismographic Network. Read more about it [here](./HW.html).
+
+### Geophysical surveys
+During my bachelor, I worked on several [geophysical surveys](./geophysical_surveys.html), with a range of purposes. See on the link some snapshots and objectives of these surveys.
+
+### Development of the Samba
+As part of my Technical diploma, I developed a an algorithm in [Samba](./samba.html)
 
 
 ## Research & Publications
