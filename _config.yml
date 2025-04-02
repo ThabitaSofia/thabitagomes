@@ -6,3 +6,9 @@ google_analytics:
 github:
   is_project_page: false
 theme: jekyll-theme-minimal
+
+languages:
+  - en
+  - fr
+
+lang: "en"
