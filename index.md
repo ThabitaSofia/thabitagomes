@@ -84,7 +84,7 @@ Or you can [📄 download My resume](assets/resume.pdf){: .btn .btn-primary }
 
 ### Joint inversion of receiver functions and dispersion curves
 
-As a part of a national grant to study the sedimentary basins in northern Brazil in order to provide a better tectonic understanding of the on and offshore basisns. I participated in this project by applying a joint inversion of teleseismic receiver functions and dispersion curves. Read more about it [here](joint_inversion.html)
+As a part of a national grant to study the sedimentary basins in northern Brazil, in order to provide a better tectonic understanding of the on and offshore basins. I participated in this project by applying a joint inversion of teleseismic receiver functions and dispersion curves. Read more about it [here](joint_inversion.html)
 
 
 ### Development of the Herglotz-Wiechert algorithm in Python
