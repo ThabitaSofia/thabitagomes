@@ -2,12 +2,4 @@
 ---
 
 
-img {
-  max-width: 150%; /* Ensures images don't overflow their containers */
-  height: auto;    /* Maintains aspect ratio */
-  width: 80%;      /* Make images take up 80% of their container's width */
-  display: block;  /* Centers block-level elements if parent has text-align: center */
-  margin: 0 auto;  /* Centers the image if it's a block-level element */
-}
-
 @import "jekyll-theme-minimal";
