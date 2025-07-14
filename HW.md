@@ -105,6 +105,8 @@ plt.ylim(-1100,0)
 plt.title('Curva v(r) - TR 4')
 plt.show()
 ```
+</details>
+
 
 The code's performance was evaluated through two numerical tests using synthetic data. The resulting inverted v(r) functions showed excellent agreement with the global ak135 velocity model used to generate the synthetic dataset.
 

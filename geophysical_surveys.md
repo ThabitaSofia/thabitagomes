@@ -21,7 +21,7 @@ This project was also conducted at the Federal University of Rio Grande do Norte
 
 <figure>
   <img src="assets/img/Magnetometria Satelite - PHOTO 2.png" alt="Satellite image of the study area. The red square shows the boundaries of the region where the magnetometric survey was conducted.">
-  <figcaption>Satellite image of the study area. The red square shows the boundaries of the region where the magnetometric survey was conducted..</figcaption>
+  <figcaption>Satellite image of the study area. The red square shows the boundaries of the region where the magnetometric survey was conducted.</figcaption>
 </figure>
 
 Before field data acquisition, we planned the survey by marking spatial reference points using **GPS data** and organizing the acquisition routine. In this study, we divided a 10x10 m area into imaginary lines spaced 1 meter apart. These lines guided the paths along which we carried the equipment.
@@ -33,12 +33,11 @@ Before field data acquisition, we planned the survey by marking spatial referenc
 
 
 After field data collection, we used **Geosoft Oasis Montaj** for data processing. Through corrections and data manipulation, we generated a magnetometric anomaly map for the area, shown below. Four distinct anomaly profiles were identified and later associated with specific buried objects:
-    • Profile 1 – Metal Pipe
-    • Profile 2 – Metal Disc
-    • Profile 3 – Cylinder
-    • Profile 4 – Iron Hammer
 
-![Magnetometric anomaly](assets/img/PHOTO 4.png "Magnetometric anomaly profile map.")
+* Profile 1 – Metal Pipe
+* Profile 2 – Metal Disc
+* Profile 3 – Cylinder
+* Profile 4 – Iron Hammer
 
 <figure>
   <img src="assets/img/PHOTO 4.png" alt="Magnetometric anomaly profile map.">
@@ -67,7 +66,7 @@ By comparing the Bouguer anomaly map with the geological map of the region, we o
 
 <figure>
   <img src="assets/img/PHOTO 7.png" alt="Left: Bouguer anomaly map with stations marked as circles. Right: Geological map of the region.">
-  <figcaption>Left: Bouguer anomaly map with stations marked as circles. Right: Geological map of the region..</figcaption>
+  <figcaption>Left: Bouguer anomaly map with stations marked as circles. Right: Geological map of the region.</figcaption>
 </figure>
 
 
@@ -77,11 +76,11 @@ In the final year of my undergraduate studies, I worked on my thesis project, wh
 
 ## EVALUATION OF THE HERGLOTZ-WIECHERT INVERSION USING P-WAVE TRAVEL TIMES FROM THE BRAZILIAN SEISMOGRAPHIC NETWORK
 The Herglotz-Wiechert method, developed in 1910 by Gustav Herglotz and Emil Wiechert, is based on the analytical inversion of seismic travel times to determine how seismic velocity varies with depth. The observational data consist of T–Δ curves, where T is the travel time in seconds and Δ is the epicentral distance in radians.
-The goal of this work was to develop a computational code implementing the inversion method and to evaluate its performance by measuring and inverting P-wave travel times for 11 earthquakes recorded at 31 seismic stations of the Brazilian Seismographic Network (RSB).
+The goal of this work was to develop a computational code implementing the inversion method and to evaluate its performance by measuring and inverting P-wave travel times for 11 earthquakes recorded at 31 seismic stations of the Brazilian Seismographic Network (RSBR).
 
 <figure>
   <img src="assets/img/MAPA ESTAÇÕES TCC - PHOTO 8.PNG" alt="Geographic location of the 11 selected earthquakes and the 31 seismic stations.">
-  <figcaption>Geographic location of the 11 selected earthquakes and the 31 seismic stations..</figcaption>
+  <figcaption>Geographic location of the 11 selected earthquakes and the 31 seismic stations.</figcaption>
 </figure>
 
 The mathematical equations were coded using Python, while travel times and epicentral distances were obtained by picking P-wave arrival times with the Seismic Analysis Code (SAC), you can read about the code and results [here](HW.html).
