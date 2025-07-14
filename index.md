@@ -77,7 +77,7 @@ Geophysicist with a Master’s degree in Geophysics and Geodynamics, specializin
 
 ## Resume
 
-Please read my resume [here](./resume.html).
+Please read my resume **[here](./resume.html)**.
 Or you can [📄 download My resume](assets/resume.pdf){: .btn .btn-primary }
 
 
@@ -85,15 +85,15 @@ Or you can [📄 download My resume](assets/resume.pdf){: .btn .btn-primary }
 
 ### Joint inversion of receiver functions and dispersion curves
 
-As a part of a national grant to study the sedimentary basins in northern Brazil, in order to provide a better tectonic understanding of the on and offshore basins. I participated in this project by applying a joint inversion of teleseismic receiver functions and dispersion curves. Read more about it [here](joint_inversion.html)
+My contribution to a national grant focused on studying northern Brazil's sedimentary basins involved applying a joint inversion of teleseismic receiver functions and dispersion curves. This project aimed to provide a better tectonic understanding of the region's on- and offshore basins.. **Read more about it [here](joint_inversion.html)**.
 
 
 ### Development of the Herglotz-Wiechert algorithm in Python
 
-I developed, in Python, a computational code to implement an inversion methodology based on the solution of the Herglotch-Wiechert algorithm and teste the performance of the method thorugh the measurement and inversion of P-wave travel times for a set of earthquakes recorded at the Brazilian Seismographic Network. Read more about it [here](./HW.html).
+I developed, in Python, a computational code to implement an inversion methodology based on the solution of the Herglotch-Wiechert algorithm and teste the performance of the method thorugh the measurement and inversion of P-wave travel times for a set of earthquakes recorded at the Brazilian Seismographic Network. **Read more about it [here](./HW.html)**.
 
 ### Geophysical surveys
-During my bachelor, I worked on several [geophysical surveys](./geophysical_surveys.html), with a range of purposes. See on the link some snapshots and objectives of these surveys.
+During my bachelor, I worked on several **[geophysical surveys](./geophysical_surveys.html)**, with a range of purposes. See on the link some snapshots and objectives of these surveys.
 
 
 ## Research & Publications

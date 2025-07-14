@@ -83,7 +83,7 @@ The goal of this work was to develop a computational code implementing the inver
   <figcaption>Geographic location of the 11 selected earthquakes and the 31 seismic stations.</figcaption>
 </figure>
 
-The mathematical equations were coded using Python, while travel times and epicentral distances were obtained by picking P-wave arrival times with the Seismic Analysis Code (SAC), you can read about the code and results [here](HW.html).
+The mathematical equations were coded using Python, while travel times and epicentral distances were obtained by picking P-wave arrival times with the Seismic Analysis Code (SAC), you can **read about the code and results [here](HW.html)**.
 
 
 

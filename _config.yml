@@ -1,7 +1,7 @@
 title: "Thabita Sofia Gomes"
 logo: /assets/img/profile.jpeg
 description: Geophysicist & Master of Science in Seismology <br> Permanent resident based in Ottawa, Ontario, Canada 🇨🇦
-show_downloads: false
+show_downloads: False
 google_analytics:
 github:
   is_project_page: false
