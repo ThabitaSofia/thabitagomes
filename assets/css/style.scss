@@ -3,7 +3,7 @@
 
 
 img {
-  max-width: 100%; /* Ensures images don't overflow their containers */
+  max-width: 150%; /* Ensures images don't overflow their containers */
   height: auto;    /* Maintains aspect ratio */
   width: 80%;      /* Make images take up 80% of their container's width */
   display: block;  /* Centers block-level elements if parent has text-align: center */
