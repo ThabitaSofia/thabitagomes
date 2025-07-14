@@ -6,7 +6,7 @@ layout: default
 
 The development of the Herglotz-Wiecher algorithm was mainly done in Python. 
 
-'''python
+```python
 import numpy as np
 import matplotlib.pylab as plt
 import math
@@ -100,7 +100,7 @@ plt.xlim(5,13)
 plt.ylim(-1100,0)
 plt.title('Curva v(r) - TR 4')
 plt.show()
-'''
+```
 
 The code's performance was evaluated through two numerical tests using synthetic data. The resulting inverted v(r) functions showed excellent agreement with the global ak135 velocity model used to generate the synthetic dataset.
 
