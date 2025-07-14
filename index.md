@@ -70,8 +70,9 @@ Geophysicist with a Master’s degree in Geophysics and Geodynamics, specializin
 
 ### Hobbies and Interests
 
-- Outdoor activities
-- Coding and scripting
+- Camping 
+- Cycling
+- Coding
 - Teaching and Mentoring
 
 ## Resume

@@ -58,20 +58,7 @@ The goal of this work was to develop a computational code implementing the inver
 
 ![Stations map](assets/img/MAPA ESTAÇÕES TCC - PHOTO 8.PNG "Geographic location of the 11 selected earthquakes and the 31 seismic stations.")
 
-The mathematical equations were coded using Python, while travel times and epicentral distances were obtained by picking P-wave arrival times with the Seismic Analysis Code (SAC).
-
-[CODE] Herglotz-Wiechert inversion code.
-
-The code's performance was evaluated through two numerical tests using synthetic data. The resulting inverted v(r) functions showed excellent agreement with the global ak135 velocity model used to generate the synthetic dataset.
-
-![Synthetic data](assets/img/FIGURA TCC- DADOS SINTETICOS - PHOTO 9.png "Comparison between the velocities obtained from synthetic data and the ak135 global model.")
-
-The results from real data inversion showed that, for depths up to 1000 km, the v(r) functions are of excellent quality. For depths between 1000 and 2000 km, however, the results showed greater dispersion than expected. These results suggest that the methodology can reliably estimate P-wave velocity variation with depth within the continental lithosphere and upper mantle of Brazil.
-
-![Comparison](assets/img/FIGURA TCC - DADO REAL - PHOTO 10.png "Comparison between the 11 real earthquakes and the ak135 model. Seismic events are marked with ‘+’.")
-
-I was very proud to defend this thesis, which was later presented at the Brazilian Geophysics Symposium.
-[Click here to download the poster presented at the symposium.]
+The mathematical equations were coded using Python, while travel times and epicentral distances were obtained by picking P-wave arrival times with the Seismic Analysis Code (SAC), you can read more about this [here](HW.html).
 
 
 
