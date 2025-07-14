@@ -6,7 +6,11 @@ layout: default
 
 The development of the Herglotz-Wiecher algorithm was mainly done in Python. 
 
-```liquid
+
+<details markdown="1">
+  <summary markdown="span">Herglotz-Wiechert Inversion Code (Click to Expand)</summary>
+  
+```python
 import numpy as np
 import matplotlib.pylab as plt
 import math
@@ -104,11 +108,17 @@ plt.show()
 
 The code's performance was evaluated through two numerical tests using synthetic data. The resulting inverted v(r) functions showed excellent agreement with the global ak135 velocity model used to generate the synthetic dataset.
 
-![Synthetic data](assets/img/FIGURA TCC- DADOS SINTETICOS - PHOTO 9.png "Comparison between the velocities obtained from synthetic data and the ak135 global model.")
+<figure>
+  <img src="assets/img/FIGURA TCC- DADOS SINTETICOS - PHOTO 9.png" alt="Comparison between the velocities obtained from synthetic data and the ak135 global model.">
+  <figcaption>Comparison between the velocities obtained from synthetic data and the ak135 global model.</figcaption>
+</figure>
 
 The results from real data inversion showed that, for depths up to 1000 km, the v(r) functions are of excellent quality. For depths between 1000 and 2000 km, however, the results showed greater dispersion than expected. These results suggest that the methodology can reliably estimate P-wave velocity variation with depth within the continental lithosphere and upper mantle of Brazil.
 
-![Comparison](assets/img/FIGURA TCC - DADO REAL - PHOTO 10.png "Comparison between the 11 real earthquakes and the ak135 model. Seismic events are marked with ‘+’.")
+<figure>
+  <img src="assets/img/FIGURA TCC - DADO REAL - PHOTO 10.png" alt="Comparison between the 11 real earthquakes and the ak135 model. Seismic events are marked with ‘+’.">
+  <figcaption>Comparison between the 11 real earthquakes and the ak135 model. Seismic events are marked with ‘+’.</figcaption>
+</figure>
 
 I was very proud to defend this thesis, which was later presented at the [3rd Brazilian Seismology Symposium](https://3sbs.iag.usp.br/). [Read the abstract here](assets/Symposium.pdf)
 
