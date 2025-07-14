@@ -9,15 +9,69 @@ Conducted a Ground Penetrating Radar (GPR) survey to locate possible water and p
 
 The processed data and interpretations are not publicly available.
 
-![GPR survey](/assets/img/image.jpg "On site with my classmates during our GPR fieldwork at UFRN.")
+![GPR survey](assets/img/GPR.jpg "On site with my classmates during our GPR fieldwork at UFRN.")
 
 
-# Magnetometric Survey
+## Magnetometric Survey
 
 
 This project was also conducted at the Federal University of Rio Grande do Norte. The goal was to carry out a magnetometric survey in a section of the campus to provide additional subsurface information to the university's infrastructure department.
 
-[photo 2]
+![Magnetometric Survey](assets/img/Magnetometria Satelite - PHOTO 2.png "Satellite image of the study area. The red square shows the boundaries of the region where the magnetometric survey was conducted.")
+
+Before field data acquisition, we planned the survey by marking spatial reference points using GPS data and organizing the acquisition routine. In this study, we divided a 10x10 m area into imaginary lines spaced 1 meter apart. These lines guided the paths along which we carried the equipment.
+
+![GPS points](assets/img/Mag- Pontos GPS e Grid- PHOTO 3.png "GPS points plotted on the map. Figure 2: Acquisition plan layout.")
+
+
+After field data collection, we used Geosoft Oasis Montaj for data processing. Through corrections and data manipulation, we generated a magnetometric anomaly map for the area, shown below. Four distinct anomaly profiles were identified and later associated with specific buried objects:
+    • Profile 1 – Metal Pipe
+    • Profile 2 – Metal Disc
+    • Profile 3 – Cylinder
+    • Profile 4 – Iron Hammer
+
+![Magnetometric anomaly](assets/img/PHOTO 4.png "Magnetometric anomaly profile map.")
+
+
+## Gravimetric Map Generation
+
+The objective of this project was to generate maps for two interconnected gravimetric profiles acquired in the northeastern region of Brazil. These profiles were collected in the field by professors from the Federal University of Rio Grande do Norte in collaboration with the Brazilian Mineral Resources Research Company (CPRM).
+
+![Gravity profile](assets/img/Profiles gravity - PHOTO 5.png "Geographic location of Profiles 1 and 2. Gravimetric stations are marked with stars.")
+
+During the data processing stage, we used Microsoft Excel for reduction calculations required by this methodology. Geosoft Oasis Montaj was used to manipulate and visualize the maps. Below is an example of an Excel table showing the calculations performed for Profile 1. The same process was applied to Profile 2.
+
+![Excel table](assets/img/Excel profile 1 grav - PHOTO 6.png "Excel table showing anomaly calculations and corrections for Profile 1.")
+
+After data processing, a Bouguer anomaly map was created using Geosoft.
+By comparing the Bouguer anomaly map with the geological map of the region, we observed a good correlation. From bottom to top, the Bouguer map begins with a lower density contrast (blue tones), which corresponds on the geological map to orthogneiss and paragneiss formations (highlighted in pink). The green tones on the Bouguer map are associated with alluvial deposits, showing slightly higher density contrasts. The yellow tones correspond to an intrusive suite composed of biotite granites, and finally, the warmer colors reflect a second intrusive suite made up of granites with a high feldspar content, explaining the higher densities.
+
+![Bouguer anomaly](assets/img/PHOTO 7.png "Left: Bouguer anomaly map with stations marked as circles. Right: Geological map of the region.")
+
+
+## Undergraduate Thesis
+
+In the final year of my undergraduate studies, I worked on my thesis project, which aimed to validate, through practical application to real data, a well-established methodology in seismology known as the Herglotz-Wiechert inversion. Below is a brief summary of the project:
+## EVALUATION OF THE HERGLOTZ-WIECHERT INVERSION USING P-WAVE TRAVEL TIMES FROM THE BRAZILIAN SEISMOGRAPHIC NETWORK
+The Herglotz-Wiechert method, developed in 1910 by Gustav Herglotz and Emil Wiechert, is based on the analytical inversion of seismic travel times to determine how seismic velocity varies with depth. The observational data consist of T–Δ curves, where T is the travel time in seconds and Δ is the epicentral distance in radians.
+The goal of this work was to develop a computational code implementing the inversion method and to evaluate its performance by measuring and inverting P-wave travel times for 11 earthquakes recorded at 31 seismic stations of the Brazilian Seismographic Network (RSB).
+
+![Stations map](assets/img/MAPA ESTAÇÕES TCC - PHOTO 8.PNG "Geographic location of the 11 selected earthquakes and the 31 seismic stations.")
+
+The mathematical equations were coded using Python, while travel times and epicentral distances were obtained by picking P-wave arrival times with the Seismic Analysis Code (SAC).
+
+[CODE] Herglotz-Wiechert inversion code.
+
+The code's performance was evaluated through two numerical tests using synthetic data. The resulting inverted v(r) functions showed excellent agreement with the global ak135 velocity model used to generate the synthetic dataset.
+
+![Synthetic data](assets/img/FIGURA TCC- DADOS SINTETICOS - PHOTO 9.png "Comparison between the velocities obtained from synthetic data and the ak135 global model.")
+
+The results from real data inversion showed that, for depths up to 1000 km, the v(r) functions are of excellent quality. For depths between 1000 and 2000 km, however, the results showed greater dispersion than expected. These results suggest that the methodology can reliably estimate P-wave velocity variation with depth within the continental lithosphere and upper mantle of Brazil.
+
+![Comparison](assets/img/FIGURA TCC - DADO REAL - PHOTO 10.png "Comparison between the 11 real earthquakes and the ak135 model. Seismic events are marked with ‘+’.")
+
+I was very proud to defend this thesis, which was later presented at the Brazilian Geophysics Symposium.
+[Click here to download the poster presented at the symposium.]
 
 
 
