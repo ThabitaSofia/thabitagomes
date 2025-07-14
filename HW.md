@@ -6,7 +6,7 @@ layout: default
 
 The development of the Herglotz-Wiecher algorithm was mainly done in Python. 
 
-```python
+```liquid
 import numpy as np
 import matplotlib.pylab as plt
 import math
@@ -110,8 +110,7 @@ The results from real data inversion showed that, for depths up to 1000 km, the 
 
 ![Comparison](assets/img/FIGURA TCC - DADO REAL - PHOTO 10.png "Comparison between the 11 real earthquakes and the ak135 model. Seismic events are marked with ‘+’.")
 
-I was very proud to defend this thesis, which was later presented at the Brazilian Geophysics Symposium.
-[Click here to download the poster presented at the symposium.]
+I was very proud to defend this thesis, which was later presented at the [3rd Brazilian Seismology Symposium](https://3sbs.iag.usp.br/). [Read the abstract here](assets/Symposium.pdf)
 
 
 [Return to Homepage](./)

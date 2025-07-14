@@ -9,8 +9,10 @@ Conducted a Ground Penetrating Radar (GPR) survey to locate possible water and p
 
 The processed data and interpretations are not publicly available.
 
-![GPR survey](assets/img/GPR.jpg "On site with my classmates during our GPR fieldwork at UFRN.")
-
+<figure>
+  <img src="assets/img/GPR.jpg" alt="On site with my classmates during our GPR fieldwork at UFRN.">
+  <figcaption>On site with my classmates during our GPR fieldwork at UFRN.</figcaption>
+</figure>
 
 ## Magnetometric Survey
 
@@ -19,12 +21,12 @@ This project was also conducted at the Federal University of Rio Grande do Norte
 
 ![Magnetometric Survey](assets/img/Magnetometria Satelite - PHOTO 2.png "Satellite image of the study area. The red square shows the boundaries of the region where the magnetometric survey was conducted.")
 
-Before field data acquisition, we planned the survey by marking spatial reference points using GPS data and organizing the acquisition routine. In this study, we divided a 10x10 m area into imaginary lines spaced 1 meter apart. These lines guided the paths along which we carried the equipment.
+Before field data acquisition, we planned the survey by marking spatial reference points using **GPS data** and organizing the acquisition routine. In this study, we divided a 10x10 m area into imaginary lines spaced 1 meter apart. These lines guided the paths along which we carried the equipment.
 
 ![GPS points](assets/img/Mag- Pontos GPS e Grid- PHOTO 3.png "GPS points plotted on the map. Figure 2: Acquisition plan layout.")
 
 
-After field data collection, we used Geosoft Oasis Montaj for data processing. Through corrections and data manipulation, we generated a magnetometric anomaly map for the area, shown below. Four distinct anomaly profiles were identified and later associated with specific buried objects:
+After field data collection, we used **Geosoft Oasis Montaj** for data processing. Through corrections and data manipulation, we generated a magnetometric anomaly map for the area, shown below. Four distinct anomaly profiles were identified and later associated with specific buried objects:
     • Profile 1 – Metal Pipe
     • Profile 2 – Metal Disc
     • Profile 3 – Cylinder
