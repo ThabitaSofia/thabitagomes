@@ -50,7 +50,8 @@ March 2017 - July 2017
 ### Languages
 * English - B2 CELPIP
 * Portuguese - Native speaker
-* Spanish - Basic
+* Spanish - Beginner
+* French - Beginner, recently enrolled in classes
 
 
 
